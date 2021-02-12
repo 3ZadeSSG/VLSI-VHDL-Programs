@@ -1,6 +1,6 @@
 # VLSI-VHDL-Programs
 
-This repo contains the VHDL Programs that I have completed in my M.Sc SEM-III Labs using **Xilinx ISE Design Suite**
+This repo contains the VHDL Programs that I have completed in my M.Sc SEM-III using **Xilinx ISE Design Suite**
 
 
 1. A 4 bit adder with structural model    
